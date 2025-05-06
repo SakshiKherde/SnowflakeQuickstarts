@@ -203,7 +203,7 @@ GROUP BY
 ORDER BY
   community_size DESC, fraud_count DESC;
 ```
-## Conclusions and Resources
+##  Conclusions and Resources
 In this quickstart, you learned how to bring the power of graph insights into Snowflake using Neo4j Graph Analytics. By working with a P2P transaction dataset, you were able to:
 
 1. Set up the Neo4j Graph Analytics application within Snowflake.
